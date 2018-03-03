@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(to right, #e6fffa , #00997a);
+}
+
+body div {
+  text-align: center;
+  width: 75%;
+  border: 0px solid black;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.title{
+	font-family: 'Bungee Hairline', cursive;
+}
+
+
+.bodyText0{
+font-family: 'Kanit', sans-serif;
+font-size: 35px;
+}
+
+
+.bodyText{
+font-family: 'Kanit', sans-serif;
+font-size: 20px;
+}
